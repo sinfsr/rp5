@@ -1,3 +1,3 @@
 python-telegram-bot
 selenium~=3.141.0
-pyperclip
+pyperclip~=1.8.0
